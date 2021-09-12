@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Bing_Caller_Machine_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bingo Caller Machine/out/artifacts/Bing_Caller_Machine_jar/Bing Caller Machine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bingo Caller Machine/out/artifacts/Bing_Caller_Machine_jar/Bing Caller Machine_jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
