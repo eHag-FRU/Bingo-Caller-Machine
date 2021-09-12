@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Bing Caller Machine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bing_Caller_Machine_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Bing Caller Machine.jar">
+        <element id="module-output" name="Bing Caller Machine" />
+        <element id="file-copy" path="$PROJECT_DIR$/Bing Caller Machine.iml" />
+      </element>
+    </root>
+  </artifact>
+</component>
